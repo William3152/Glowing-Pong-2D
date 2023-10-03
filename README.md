@@ -1,6 +1,7 @@
 # Glowing 2D Pong
 
-![Glowing Pong](https://github.com/William3152/Glowing-Pong-2D/assets/116702856/8ab999da-f2a6-4c02-b367-8221d30356a3)
+![hesdagkyb](https://github.com/William3152/Glowing-Pong-2D/assets/116702856/4011f734-da0d-4f36-a421-aac62e1e710c)
+
 
 
 Glowing 2D Pong is a classic Pong game with a modern twist. 
