@@ -2,12 +2,8 @@
 
 ![hesdagkyb](https://github.com/William3152/Glowing-Pong-2D/assets/116702856/4011f734-da0d-4f36-a421-aac62e1e710c)
 
-
-
-Glowing 2D Pong is a classic Pong game with a modern twist. 
-In this game, players can play against the other player in local multiplayer mode.
-One of the exciting features of this game is the dazzling light effects that add a visually captivating element to the gameplay.
-
+## Overview
+Glowing 2D Pong is a classic Pong game with a modern twist. In this game, players can play against the other player in local multiplayer mode. One of the exciting features of this game is the dazzling light effects that add a visually captivating element to the gameplay.
 
 ## Features
 
@@ -19,7 +15,6 @@ One of the exciting features of this game is the dazzling light effects that add
 ## Player Control 
 
 Player can use these button to control the paddle on the game 
-
 | Key          | Function          | Description             |
 | ------------ | ----------------- | ----------------------- |
 | W            | Player 1 Move Up  | Move the first player's paddle up    |
@@ -39,14 +34,12 @@ These are scripts that used to help run the game.
 | `SceneManagement.cs`  | Allows for the switching of game scenes by providing the name of the target scene to the "ChangeScene" method. It also enables the player to exit the game application using the "QuitApp" method.       |
 | `SideWall.cs`         | Designed to be attached to side walls and serves for scoring by keeping track of when a ball collides with it, identifies the specific wall that was hit, and updates the player's score accordingly. It also can be used to restart the game by sending a message to the ball object to restart the game, possibly after a brief delay, by invoking the "RestartGame" method defined in the "BallControl" script.                 |
 
-
 ## Contributions
 
-We welcome contributions from the community. If you'd like to contribute to this project, please follow these steps:
-
-1. Fork this repository.
-2. Create a new branch with your feature or bug fix.
-3. Submit a pull request to the main repository.
+Game Developer: William Wijaya 
+- Developing core gameplay
+- UI and game element placement
+- Assets making
 
 ## Contact
 
